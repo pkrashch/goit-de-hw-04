@@ -42,4 +42,11 @@ python part3.py
 
 ## Скриншоти
 
-Скриншоти сторінки Jobs для кожної частини — у папці `screenshots/`.
+### Частина 1 — 5 Jobs
+![part1](screenshots/p1_jobs.png)
+
+### Частина 2 — 8 Jobs
+![part2](screenshots/p2_jobs.png)
+
+### Частина 3 — 7 Jobs
+![part3](screenshots/p3_jobs.png)
